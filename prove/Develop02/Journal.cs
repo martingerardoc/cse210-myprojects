@@ -10,7 +10,7 @@ class Journal
       bool running = true;
         while (running)
         {
-            Console.WriteLine("Please choose an option from the menu:");
+            Console.WriteLine("Please choose an option from the next menu:");
             Console.WriteLine("1. Respond to a random prompt and save it as an entry");
             Console.WriteLine("2. Display all journal entries");
             Console.WriteLine("3. Save journal to a file");
